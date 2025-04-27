@@ -1,1 +1,1 @@
-###### Multi User Todo Application using Django
+### Multi User Todo Application using Django
