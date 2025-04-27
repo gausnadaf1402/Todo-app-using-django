@@ -23,6 +23,8 @@ This project is a multi-user todo application built using Django. It allows user
 5. Create a superuser for admin access: `python manage.py createsuperuser`
 6. Start the development server: `python manage.py runserver`
 
+                          **END**
+
 ### Usage
 ---
 1. Access the application through your browser at http://localhost:8000/
