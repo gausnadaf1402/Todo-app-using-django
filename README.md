@@ -8,3 +8,8 @@ This project is a multi-user todo application built using Django. It allows user
 
 ### Features
 ---
+- User registration and authentication
+- Create, edit, and delete tasks
+- Assign tasks to specific users
+- Mark tasks as completed
+- Filter tasks based on status, priority, etc.
